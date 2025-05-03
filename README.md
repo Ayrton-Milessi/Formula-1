@@ -13,7 +13,7 @@ El objetivo de este proyecto es proporcionar análisis detallados y visualizacio
   - [LinkedIn](https://www.linkedin.com/in/ayrton-milessi-90ab91327/)  
   - [Correo Electrónico](mailto:ayrton4210@gmail.com)
 
-## ⚠️ Aviso legal
+### ⚠️ Aviso legal
 Este proyecto utiliza datos obtenidos mediante la librería [FastF1](https://github.com/theOehrly/Fast-F1), que accede a información provista por Formula 1 live timing. Los datos son propiedad de Formula 1. Este repositorio es de uso educativo y no tiene fines comerciales.
 
 El código y los análisis presentes en este repositorio están licenciados bajo la Licencia MIT.
