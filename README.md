@@ -2,23 +2,25 @@
 Este repositorio está dedicado al análisis de datos y la creación de informes relacionados con la Fórmula 1. A través de scripts en Python y técnicas de análisis de datos, se exploran diferentes aspectos del deporte, como el rendimiento de los pilotos, las estadísticas de las carreras y la evolución de los equipos a lo largo de las temporadas.
 
 ## 📋 Descripción del Proyecto
-El objetivo de este proyecto es proporcionar análisis detallados y visualizaciones simples sobre diversos aspectos de la Fórmula 1, incluyendo:
+El objetivo de este proyecto es proporcionar análisis detallados y visualizaciones efectivas sobre diversos aspectos de la Fórmula 1, incluyendo:
 
 * Rendimiento de los pilotos: Evaluación de estadísticas individuales y comparativas, tanto en clasificación como en carrera.
 * Estadísticas de las carreras: Análisis de resultados, tiempos y estrategias.
 * Evolución de los equipos: Seguimiento del desempeño a lo largo de las temporadas.
-* Análisis de telemetría: Comparando vueltas especificas entre pilotos.
+* Análisis de telemetría: Comparando vueltas específicas entre pilotos.
 
 ## 📊 Ejemplos de Visualizaciones
 Estas son algunas de las visualizaciones que puedes encontrar en este proyecto:
 
 ### Análisis de Telemetría en Vueltas de Clasificación
 Visualización detallada de los datos de telemetría para comparar la vuelta más rápida entre pilotos.
-![Análisis de Telemetría](Temporada 2025/06_MIAMI/graphics/qualy/VER_NOR_ANT_vueltas.png)
+![Análisis de Telemetría]("Temporada 2025/06_MIAMI/graphics/qualy/VER_NOR_ANT_vueltas.png")
 
-* **Tiempos de Vuelta de los Pilotos y Compuestos de Neumaticos:**
+* **Tiempos de Vuelta de los Pilotos y Compuestos de Neumáticos:**
+![Tiempos de Vuelta]("Temporada 2024/18_SINGAPORE/graphics/race/Lap_time_distribution_drivers.png")
+
 * **Comparación de Ritmo de Carrera entre Pilotos:**
-
+![Ritmo de Carrera]("Temporada 2025/06_MIAMI/graphics/race/ritmo_carrera_ordenados_media.png")
 
 ## 🛠️ Tecnologías Utilizadas
 - **Lenguajes**: Python
