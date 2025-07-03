@@ -24,11 +24,23 @@ Visualización detallada de los datos de telemetría para comparar la vuelta má
 
 ### Tiempos de Vuelta de los Pilotos y Compuestos de Neumáticos
 Gráfico que representa el tiempo de vuelta realizado por cada piloto, indicando el compuesto que utilizó.
+
+<details>
+<summary>🔍 Ver visualización</summary>
+
 ![Tiempos de Vuelta](Temporada%202024/18_SINGAPORE/graphics/race/Lap_time_distribution_drivers.png)
+
+</details>
 
 ### Comparación de Ritmo de Carrera entre Pilotos
 Ilustra el ritmo de carrera de cada piloto, yendo del más rápido al menos rápido según la media.
+
+<details>
+<summary>🔍 Ver visualización</summary>
+
 ![Ritmo de Carrera](Temporada%202025/06_MIAMI/graphics/race/ritmo_carrera_ordenados_media.png)
+
+</details>
 
 ## 🛠️ Tecnologías Utilizadas
 - **Lenguajes**: Python
