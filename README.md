@@ -14,7 +14,13 @@ Estas son algunas de las visualizaciones que puedes encontrar en este proyecto:
 
 ### Análisis de Telemetría en Vueltas de Clasificación
 Visualización detallada de los datos de telemetría para comparar la vuelta más rápida entre pilotos.
-![Análisis de Telemetría](Temporada%202025/06_MIAMI/graphics/qualy/VER_NOR_ANT_vueltas.png)
+
+<details>
+<summary>🔍 Ver visualización</summary>
+
+![Análisis de Telemetría](Temporada%202025/07_IMOLA/graphics/qualy/PIA_VER_telemetria.png)
+
+</details>
 
 ### Tiempos de Vuelta de los Pilotos y Compuestos de Neumáticos
 Gráfico que representa el tiempo de vuelta realizado por cada piloto, indicando el compuesto que utilizó.
