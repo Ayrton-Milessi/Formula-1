@@ -38,7 +38,17 @@ Ilustra el ritmo de carrera de cada piloto, yendo del más rápido al menos ráp
 <details>
 <summary>🔍 Ver visualización</summary>
 
-![Ritmo de Carrera](Temporada%202025/06_MIAMI/graphics/race/ritmo_carrera_ordenados_media.png)
+![Ritmo de Carrera](Temporada%202025/05_SAUDI%20ARABIA/graphics/race/ritmo_carrera_ordenados_media.png)
+
+</details>
+
+### Análisis de Telemetría en la Largada de la Carrera
+Representación explicativa sobre el comienzo de la carrera y la definición en la primera curva.
+
+<details>
+<summary>🔍 Ver visualización</summary>
+
+![Análisis de Largada](Temporada%202025/07_IMOLA/graphics/race/Largada_PIAvsVER_telemetria.png)
 
 </details>
 
